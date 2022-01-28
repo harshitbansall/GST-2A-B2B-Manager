@@ -12,10 +12,10 @@ So I made this Simple Python Script which can alter these both files into one PD
 ![alt-text](https://drive.google.com/u/0/uc?id=1syPjiI1JbhoAXSiss7UbGYBCSzisOTOm&export=download)
 ### Example
 There are 2 Files Named:
-* GSTR - 2A .xlx :
+* *GSTR - 2A .xlx* :
 
 * ![alt text](https://drive.google.com/u/0/uc?id=1x39UI7p9dYYDvYeyc5kLpWWiwYm1AOe6&export=download)
-* GSTR - B2B .xlx :
+* *GSTR - B2B .xlx* :
 
 * ![alt text](https://drive.google.com/u/0/uc?id=1WIVcu9fXJZE_fAOEuCKYTPgWKecEMC7v&export=download)
 * After Using The Script. A PDF File is Generated :
