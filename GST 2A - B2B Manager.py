@@ -43,7 +43,7 @@ def findCols(cols):
 def pdfData(gstinList):
     global xlist
     from fpdf import FPDF
-    pdf=FPDF(format='letter', unit='in')
+    pdf = FPDF(format='letter', unit='in')
     pdf.add_page()
     pdf.set_font('Times','',10.0) 
     epw = pdf.w - 2*pdf.l_margin
@@ -53,8 +53,7 @@ def pdfData(gstinList):
     for num,i in enumerate(gstinList):
         if i!=('',''):
             data3 = []
-            pdf.ln(2*th)
-            pdf.set_font('Times','B',14.0) 
+            pdf.ln(2*th),pdf.set_font('Times','B',14.0) 
             pdf.cell(epw, 0.0, txt = "{} - {}".format(i[0],i[1]), align = 'C')
             pdf.set_font('Times','',10.0) 
             pdf.ln(0.3)
