@@ -17,15 +17,15 @@ There are 2 Files Named:
 * *GSTR - 2A .xlx* :
 
 * <p align = "center">
-  <img src = "Resources/2.png" height = "400">
+  <img src = "Resources/2.png " height = "400">
   </p>
 * *GSTR - B2B .xlx* :
 
 * <p align = "center">
-  <img src = "Resources/3.png" height = "400">
+  <img src = "Resources/3.png " height = "400">
 </p>
 * After Using The Script. A PDF File is Generated :
 
 <p align = "center">
-  <img src = "Resources/4.png" height = "400">
+  <img src = "Resources/4.png " height = "400">
 </p>
