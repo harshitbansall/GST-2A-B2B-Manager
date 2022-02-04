@@ -13,19 +13,16 @@ So I made this Simple Python Script which can alter these both files into one PD
 </p>
 
 ### Example
-There are 2 Files Named:
+There are 2 Files Named :
 * *GSTR - 2A .xlx* :
-
-* <p align = "center">
-  <img src = "Resources/2.png " height = "400">
-  </p>
 * *GSTR - B2B .xlx* :
-
-* <p align = "center">
-  <img src = "Resources/3.png " height = "400">
+<p align = "center">
+  <img src = "Resources/2.png " height = "300">
+  <img src = "Resources/3.png " height = "300">
 </p>
-* After Using The Script. A PDF File is Generated :
+
+* *After Using The Script. A PDF File is Generated :*
 
 <p align = "center">
-  <img src = "Resources/4.png " height = "400">
+  <img src = "Resources/4.png " height = "600">
 </p>
