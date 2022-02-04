@@ -16,10 +16,16 @@ So I made this Simple Python Script which can alter these both files into one PD
 There are 2 Files Named:
 * *GSTR - 2A .xlx* :
 
-* ![alt text](https://drive.google.com/u/0/uc?id=1x39UI7p9dYYDvYeyc5kLpWWiwYm1AOe6&export=download)
+* <p align = "center">
+  <img src = "Resources/2.png" height = "400">
+</p>
 * *GSTR - B2B .xlx* :
 
-* ![alt text](https://drive.google.com/u/0/uc?id=1WIVcu9fXJZE_fAOEuCKYTPgWKecEMC7v&export=download)
+* <p align = "center">
+  <img src = "Resources/3.png" height = "400">
+</p>
 * After Using The Script. A PDF File is Generated :
 
-![alt-text](https://drive.google.com/u/0/uc?id=1lGm-ku3pK8vLQ8XUN_B5iL6Rr4EdIq17&export=download)
+<p align = "center">
+  <img src = "Resources/4.png" height = "400">
+</p>
