@@ -9,7 +9,7 @@ So at the end of every financial quarter he had to compare these both files on p
 So I made this Simple Python Script which can alter these both files into one PDF file which is so much easier to compare.
 
 
-![alt-text](https://drive.google.com/u/0/uc?id=1syPjiI1JbhoAXSiss7UbGYBCSzisOTOm&export=download)
+![alt-text](Resources/1.png)
 ### Example
 There are 2 Files Named:
 * *GSTR - 2A .xlx* :
