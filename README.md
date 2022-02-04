@@ -18,7 +18,7 @@ There are 2 Files Named:
 
 * <p align = "center">
   <img src = "Resources/2.png" height = "400">
-</p>
+  </p>
 * *GSTR - B2B .xlx* :
 
 * <p align = "center">
