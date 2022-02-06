@@ -16,12 +16,12 @@ There are 2 Files Named :
 * <code>*GSTR - 2A .xlx*</code> :
 * <code>*GSTR - B2B .xlx*</code> :
 <p align = "center">
-  <img src = "Resources/2.png " height = "300">
-  <img src = "Resources/3.png " height = "300">
+  <img src = "Resources/2.png" height = "300">
+  <img src = "Resources/3.png" height = "300">
 </p>
 
 * <code>*After Using The Script. A PDF File is Generated</code> :*
 
 <p align = "center">
-  <img src = "Resources/4.png " height = "600">
+  <img src = "Resources/4.png" height = "600">
 </p>
