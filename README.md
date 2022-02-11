@@ -1,5 +1,5 @@
 # GST 2A - B2B Manager
-Script with GUI for Altering 2 Excel Files (2A & B2B GST Filing Reports) into 1 PDF File so that it would help the reader to compare both files.
+Python Script with Tkinter GUI for Altering 2 Excel Files (2A & B2B GST Filing Reports) into 1 PDF File so that it would help the reader to compare both files.
 * [Inspiration and Need](#inspiration-and-need)
 * [Example](#example)
 ## Inspiration and Need
