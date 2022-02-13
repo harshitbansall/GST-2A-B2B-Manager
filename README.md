@@ -16,8 +16,8 @@ There are 2 Files Named :
 * <code>*GSTR - 2A .xlx*</code> :
 * <code>*GSTR - B2B .xlx*</code> :
 <p align = "center">
-  <img src = "Resources/2.png" height = "300">
-  <img src = "Resources/3.png" height = "300">
+  <img src = "Resources/2.png" height = "250">
+  <img src = "Resources/3.png" height = "250">
 </p>
 
 * <code>*After Using The Script. A PDF File is Generated</code> :*
